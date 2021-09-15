@@ -6,9 +6,9 @@ The challenge is split into two parts. Depending on where your strengths lie fee
 We use NextJS, both the BE and FE tasks can be accomplished in the same application boilerplate. Therefore, we have leveraged API routes for the BE task and the standard pages structure for the FE task.
 
 #### BE Task
-Create a custom rest API to pre-filter all required data needed. The required data includes getting all Alive, Morty characters along with all of their associated data types Origin, Location and Episode data.
+Create a custom rest API to pre-filter all required data needed. The required data includes getting all Alive, Morty characters along with all of their associated data types Origin, Location and Episode data from the Rick and Mort API. https://rickandmortyapi.com/. Please ensure you read the docs thoroughly https://rickandmortyapi.com/documentation.
 
-The interfaces in the codebase will show you what the data structure **must** look like, if you need to extend them, feel free! However, the original structure must be preserved.
+The interfaces in the codebase will show you what the data structure **must** look like, if you need to extend them, feel free! However, the original structure must stay unchanged.
 
 #### FE Task
 Build a simple UI to list all characters using the mockdata provided and using the basic wireframes provided. There is mockdata for the character listing page and for the individual character page. The pages themselves have been added.
